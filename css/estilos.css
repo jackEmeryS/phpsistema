@@ -1,0 +1,31 @@
+/* essa folha de estilo demomina-se main.css */
+@charset utf-8;
+@import url("fontes.css"); 
+
+body {
+    background-color:cadetblue;
+}
+
+td, table {
+    border: none;
+}
+
+#b_c {
+    background-color: aqua;   
+    position: absolute;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 700px;
+    
+}
+#bt {
+    position: absolute;
+    background-color: antiquewhite;
+    border: 1;
+}
+#outd {
+    display:flex;
+    float:right; 
+}
+
